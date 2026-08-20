@@ -1,4 +1,4 @@
-# Online Java ile Nesne Yönelimli Programlama Kursu 15 Ağustos 2026 – Sık Sorulan Sorular 
+# Online Java ile Nesne Yönelimli Programlama Kursu 17 Ekim 2026 – Sık Sorulan Sorular 
 
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Java ile Nesne Yönelimli Programlama Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 

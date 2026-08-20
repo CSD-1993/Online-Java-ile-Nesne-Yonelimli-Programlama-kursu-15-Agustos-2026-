@@ -1,8 +1,8 @@
-# Online Java ile Nesne Yönelimli Programlama Kursu - 15 Ağustos 2026
+# Online Java ile Nesne Yönelimli Programlama Kursu - 17 Ekim 2026
 
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __15 Ağustos 2026 Cumartesi__ günü başlayacaktır.
++ Kurs __17 Ekim 2026 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __220__ saattir. Dersler __Cumartesi ve Pazar__ günleri __13:00 - 16:00__ saatleri arasında yapılacaktır.

@@ -1,4 +1,4 @@
-# Online Java ile Nesne Yönelimli Programlama Kursu - 15 Ağustos 2026 Kurs İçeriği (220 Saat)
+# Online Java ile Nesne Yönelimli Programlama Kursu - 17 Ekim 2026 Kurs İçeriği (220 Saat)
 
 ## Temel kavramlar
 + Java ortamı
